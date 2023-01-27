@@ -1,0 +1,12 @@
+{
+  "Name":"HW2401",
+  "Version":"1.0.0",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^18.2.0"
+  },
+  "scripts":{
+    "start": "node app.js",
+    "dev":"node app.js HELLO!"
+  }
+}
